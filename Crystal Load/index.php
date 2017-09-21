@@ -31,7 +31,7 @@ $table = $table2["response"]["players"][0];
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 
 	<meta name="description" content="Welcome to Crystal Load - Crystal Blue Persuassion!" /> <!-- Webpage Description --> 
-	<title>Crystal Load</title> <!-- Webpage Title -->
+	<title>Riches Roleplay</title> <!-- Webpage Title -->
 	<link href="style.css" rel="stylesheet" type="text/css" /> <!-- Links to the Stylesheet -->
     <link href="colour.css" rel="stylesheet" type="text/css" /> <!-- Links to the Stylesheet for main colours -->
 	
